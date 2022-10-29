@@ -1,16 +1,232 @@
-### Hi there 👋
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@lazizbektech 
+/
+donyortech
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+lazizbektech/README.md
+@lazizbektech
+lazizbektech Update README.md
+Latest commit 471ee53 13 hours ago
+ History
+ 1 contributor
+197 lines (167 sloc)  6.04 KB
 
-<!--
-**lazizbektech/lazizbektech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5015&pause=982&width=900&height=100&lines=Hello%2C+how+are+you%2C+my+name+is+Lazizbek%2C+how+can+I+help+you%3F"/>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <p align="center">
+  <img src="./donyottech.gif" autoplay>
+</p> -->
+
+
+## :memo: Blog
+
+
+## **CONNECT ME**
+
+  
+<a href="mailto:lazizbekcode@gmail.com">
+<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/>
+</a>
+<a href="https://www.facebook.com/LazizbekMaxkamov/">
+<img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook"/>
+</a>
+<a href="https://t.me/lazizbek_maxkamov">
+<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
+</a>
+<a href="https://www.instagram.com/lazizbekcoder/">
+<img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram"/>
+</a>
+<a href="https://twitter.com/lazizbekcode">
+<img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="twitter"/>
+</a>
+<a href="1749368435">
+<img src="https://img.icons8.com/color/48/000000/qq.png"/>
+</a>
+<a href="https://open.spotify.com/user/lazizbekcode">
+<img src="https://img.icons8.com/color/48/000000/spotify--v1.png" alt="spotify"/>
+</a>
+<a href="https://stackoverflow.com/users/16670404/lazizbekcode">
+<img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="stackoverflow"/>
+</a>
+<a href="https://discord.gg/lazizbekcode">
+<img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="discord"/>
+</a>
+<a href="https://t.me/lazizbekcode">
+<img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
+</a>
+<a href="https://leetcode.com/lazizbekcode">
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
+</a>
+
+
+
+
+
+##  **WEB DEV**
+
+  <a href="">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  </a>
+  <a href="">
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  </a>
+   <a href="">
+    <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+  </a>
+   <a href="">
+   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
+  </a>
+   <a href="">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  </a>
+  <a href="">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  </a>
+  <a href="">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png"/>
+  </a>
+   <a href="">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  </a>
+  <a href="">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/>
+  </a>  
+  <a href="">
+    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="48" height="48"/>
+  </a>
+  
+
+##  **BACKEND DEV**
+<a href="">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+</a>
+<a href="">
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+</a>
+<a href="">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+</a>
+<a href="">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="48" height="48"/>
+</a>
+<a href="">
+  <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
+</a>
+<a href="">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+</a>
+
+##  **DESIGN TOOLS**
+<a href="">
+  <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
+</a>
+<a href="">
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+</a>
+<a href="">
+  <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
+</a>
+
+
+##  **DATABASES**
+ <a href="">
+   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+ </a>
+ <a href="">
+   <img src="https://img.icons8.com/color/48/000000/my-sql.png"/>
+ </a>
+
+
+##  **DEVOPS TOOLS**
+ <a href="">
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>
+ </a>
+ <a href="">
+    <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+ </a> 
+ <a href="">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
+ </a> 
+ <a href="">
+    <img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
+ </a> 
+ <a href="">
+    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+ </a> 
+
+##  **CLOUDS**
+ <a href="">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>
+ </a> 
+ <a href="">
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
+ </a> 
+ <a href="">
+    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+ </a> 
+
+##  **CODE EDITOR & IDES**
+ <a href="">
+   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+ </a> 
+ <a href="">
+   <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
+ </a> 
+ <a href="">
+   <img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
+ </a> 
+ <a href="">
+   <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+ </a> 
+  <a href="">
+   <img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/>
+ </a> 
+  <a href="">
+   <img src="https://img.icons8.com/officel/48/000000/java-eclipse.png"/>
+ </a> 
+ 
+
+## :memo: hobby
+
+  <a href="">
+    <img src="https://img.icons8.com/color/48/000000/office-365.png"/>
+  </a> 
+  <a href="">
+    <img  src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/>
+ </a>
+
+ 
+![GitHub](https://img.shields.io/github/license/lazizbektech/lazizbektech?style=for-the-badge)
+
+
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+lazizbektech/README.md at main · lazizbektech/lazizbektech
