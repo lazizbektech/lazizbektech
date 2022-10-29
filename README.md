@@ -1,29 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@lazizbektech 
-/
-donyortech
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-lazizbektech/README.md
-@lazizbektech
-lazizbektech Update README.md
-Latest commit 471ee53 13 hours ago
- History
- 1 contributor
-197 lines (167 sloc)  6.04 KB
-
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5015&pause=982&width=900&height=100&lines=Hello%2C+how+are+you%2C+my+name+is+Lazizbek%2C+how+can+I+help+you%3F"/>
 </p>
