@@ -187,20 +187,3 @@
 
  
 ![GitHub](https://img.shields.io/github/license/lazizbektech/lazizbektech?style=for-the-badge)
-
-
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-lazizbektech/README.md at main · lazizbektech/lazizbektech
